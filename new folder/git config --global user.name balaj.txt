@@ -1,0 +1,5 @@
+git config --global user.name "balajijack2013-lang"
+git config --global user.email "balajijack2013@gmail.com"
+
+
+ssh-keygen -t ed25519 -C "balajijack2013@gmail.com"
